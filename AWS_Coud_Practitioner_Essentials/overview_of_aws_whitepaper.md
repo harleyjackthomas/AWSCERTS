@@ -254,4 +254,72 @@ Secure and managed business email and calendar service.
 
 ### Amazon Chime
 
-Communications service that transforms online meetings with a secure, easy-to-use application that you can trust. `
+Communications service that transforms online meetings with a secure, easy-to-use application that you can trust.
+
+## Compute Services
+
+### Amazon EC2
+
+Amazon Elastic Compute Cloud is a web service that provides secure, resizable compute capacity in the cloud, designed to make web-scale computing easier for developers.
+
+Simple web interface to obtain and configure capacity with minimal friction. 
+
+### Instance Types
+
+Amazon EC2 passes on to your the financial benefits of Amazon's scale, your pay for a very low rate for the compute capcity you actually consume.
+
+- On-Demand Instances: you pay for compute capacity by the hour with no long-term commitments, you can increase or decrease your compute capacity depending on the demands on your application, and only pay the specified hourly rate for the instances you use. 
+- Reserved Instances: provide a significant discount (up to 75%) compared to On-Demand instance pricing. Flexibility to change families, operating system types, and tenancies while benefitting from Reserved Instance pricing when you use Coinvertible Reserved Instances.
+- Spot Instances: Available up to 90% discount compared to On-Demand prices and let you take advantage of unused Amazon EC2 capacity in the AWS cloud. Can significantly reduce the cost of running your applications, grow your applications compute capacity and throughout for the same budget, and enable new types of cloud computing applications. 
+
+### Amazon EC2 Auto Scaling
+
+Maintain application availability and allows you to automatically add/remove EC2 instances according to conditions you define. 
+
+### Amazon Elastic Container Registry
+
+ECR is a fully-managed Docker container registry that make it easy for developers to store, manage, and deploy Docker container images. Integrated with Amazon Elastic Container Service (Amazon ECS). 
+
+### Amazon Elastic Container Service
+
+Highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS. 
+
+### Amazon Elastic Kubernetes Service
+
+Kubernetes on AWS.
+
+### Amazon Lightsail
+
+Launch and manage a virtual private server, includes a virtual machine, SSD-based storage, data transfer, DNS management, and a static IP address.
+
+### AWS Batch
+
+Efficiently run hundreds of thousands of batch computing jobs on AWS. AWS Batch provisions optimal quantity and type of compute resources based on the volume and specific resource requirements of the batch jobs submitted. 
+
+### AWS Elastic Beanstalk
+
+Easy-to-use service deploying and scaling web application and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go and Docker on familiar servers such as Apache, Nginc, Passenger, and IIS. 
+
+### AWS Fargate 
+
+A compute engine for Amazon ECS to run containers without having to manage servers or clusters. 
+
+Has two modes, Farget launch type and EC2 launch type, with Fargate launch type, all you have to do is package your application in containers, specify the CPU and memory requirements, define networking and IAM policies, and launch the application. EC2 launch type allows you to have server-level, more granular control over the infrastructure that runs your container applications. 
+
+### AWS Lambda
+
+Run code without provisioning or managing servers, only pay for the compute time used. 
+
+### AWS Severless Applicaiton Repository
+
+Enables you to quickly deploy code samples, components and complete applications for common use cases such as web and mobile back-ends, event and data processing, logging, monitoring, IoT, and more. Each application is packaged with an AWS Sever Application Model (SAM) template that defines the AWS resources used. 
+
+### AWS Outposts
+
+Briung native AWS services, infrastructure, and operating models to virtually any data center, co-locating space, or on-premises facility. 
+
+Two varients: 1) VMWare Cloud on AWS Outposts allow you to use same VMware control plane and APIs you use to run your infrastructure, 2) AWS native varient of AWS Outputs allow yout o use the same exact APIs and control plane you use to run in the AWS cloud, but on-premises. 
+
+### VMware Cloud of AWS
+
+Joint offering from VMware and AWS to deliver highly scalable, secure, and innocative service that allows organizations to seamlessly migrate and extend their on-premises VMware vSpher-based environments to the AWS Cloud running on next-generate Amazon Elastic Compute Cloud (EC2) bare metal infrastructure. 
