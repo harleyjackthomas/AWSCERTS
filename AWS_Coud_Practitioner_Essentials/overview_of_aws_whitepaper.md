@@ -175,3 +175,83 @@ With Lake Formation it is a simple as defining where your data residers, and wha
 Serivce to build and run application that use Apache Kafka to process streaming data. 
 
 Use Apache Kafka APIs to populate data lakes, stream changes to and from databased, asnd power ML and analytics applications. 
+
+## Application Integration
+
+### AWS Step Functions
+
+Lets you coordinate multiple AWS services into serverless workflows so you can build and update apps quickly. Design and run workflows that stitch together services such as AWS Lambda and Amazon ECS into a feature-rich applications. 
+
+### Amazon MQ
+
+Managed message broke service for Apache ActiveMQ that makes it easy to set up and operate message brokers in the cloud. 
+
+### Amazon SQS
+
+Amazon Simple Queue Service is a fully managed messaging queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. 
+
+Two different types of message queues offered, standard queues offer maximum throughput, best-effort ordering, and at least once delivery. SQS FIFO queues are designed to guarentee that messages are processed exactly once, in the exact order they are sent. 
+
+### Amazon SNS
+
+Amazon Simple Notification Service, high available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications. 
+
+Amazon SNS provides topics for high-throughput, push-based, many-to-many messaging. 
+
+SNS can fan out notifications to end users using mobile push, SMS, and email.
+
+### Amazon SWF
+
+Amazon Simple Workflow helps developers build, run, and scale background jobs that have parallel or sequential jobs. SWF is a fully-managed state tracker and task coordinator in the cloud. 
+
+If your application's steps take more than 500 miliseconds to complete, you need to track the state of processing. 
+
+## AWS Cost Management
+
+### AWS Cost Explorer
+
+Easy-to-use interface to visualize, understand, and manage AWS costs and usage over time. 
+
+### AWS Budgets
+
+Set custom budgets that alert you when your costs or usage exceed (or are forcasted to exceed) your budgeted amount. 
+
+Can be tracked at the monthly quarterly, or yearly level, you can customize the start and end dataes.
+
+### AWS Cost and Usage Report
+
+A single location for accessing comprehensive information about your AWS costs and usage. 
+
+### Reserved Instance (RI) reporting.
+
+AWS provides a number of RI-specific cost management solutions out-of-the-box to help you better understand and manager your RIs. Using the RI utilization and coverage reports available in AWS Cost Explorer, you can visualize your RI data at an aggregte level or inspect a particular RI subscription. 
+
+## Blockchain
+
+### Amazon Managed Blockchain
+
+A fully managed service that makes it easy to create and manager scalable blockchain network using the popular open source frameworks Hyperledger Fabric and Ethereum, 
+
+Build applications where multiple parties can execute transactions without the need for a trusted, central authority. 
+
+Removes need for individual network memebers to manually provision hardware, install software, create and amange certificates for access control. 
+
+Managed Blockchain can replicate an immutable copy of your blockchain network activity into Amazon Quantum Ledger Database (QLDB). 
+
+## Business Applications
+
+### Alexa for Business
+
+Use Alex to get more done, as an intelligent assistant to be more productive in meeting rooms, at their desks, and even with the Alexa devices they already have at home. 
+
+### Amazon WorkDocs
+
+Secure enterprise storage and sharing service with strong administrative controls and feedback capabilities that improve user productivity. 
+
+### Amazon WorkMail
+
+Secure and managed business email and calendar service. 
+
+### Amazon Chime
+
+Communications service that transforms online meetings with a secure, easy-to-use application that you can trust. `
