@@ -323,3 +323,25 @@ Two varients: 1) VMWare Cloud on AWS Outposts allow you to use same VMware contr
 ### VMware Cloud of AWS
 
 Joint offering from VMware and AWS to deliver highly scalable, secure, and innocative service that allows organizations to seamlessly migrate and extend their on-premises VMware vSpher-based environments to the AWS Cloud running on next-generate Amazon Elastic Compute Cloud (EC2) bare metal infrastructure. 
+
+## Customer Engagement
+
+### Amazon Connect
+
+Self-service, cloud-based contact center service that makes it easy for any business to deliver better customer service at lower cost. Based on the same contact center technology used by Amazon customer service associates around the world to power millions of customer conversations. 
+
+### Amazon SES
+
+Amazon Simple Email Service is a cloud-based email sending service designed to help digital marketers and application devlopers send marking, notification, and transactional emails. 
+
+Use SMTP interface or one of the AWS SDKs to integrate directly into existing applications. 
+
+## Database
+
+### Amazon Aurora
+
+A MySQL and PostgreSQL compatible relational database engine that combines the speed and availability of high-end commercial databases with simplicity and cost-effectiveness of open source databases. 
+
+### Amazon Relational Databse Service
+
+Amazon RDS provides a relational databse in the cloud. 
